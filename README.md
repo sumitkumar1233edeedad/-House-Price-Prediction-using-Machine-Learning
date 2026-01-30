@@ -23,7 +23,13 @@ To build a **regression model** that can accurately predict house prices using h
 * Bedrooms
 * Bathrooms
 * Stories
+* Main Road
+* Guest Room
+* Basement
+* Hot Water Heating
+* Air Conditioning
 * Parking
+* Preferred Area
 
 ### Target Variable
 
@@ -38,6 +44,9 @@ To build a **regression model** that can accurately predict house prices using h
 * Pandas
 * Matplotlib / Seaborn
 * Scikit-learn
+* Joblib
+* Os
+* torch
 
 ---
 
