@@ -14,7 +14,7 @@ House Price Prediction is a **beginner-friendly machine learning project** that 
 This project covers the **end-to-end ML workflow**:
 **Data Loading → Preprocessing → Feature Engineering → Modeling → Evaluation → Deployment**.
 
-💻 **Live Demo (Streamlit App):** [Click Here](https://e23ahj9kwaanpdpi57w82t.streamlit.app/)
+💻 **Live Demo (Streamlit App):** [Click Here](https://house-price-predictors.streamlit.app/)
 
 ---
 
