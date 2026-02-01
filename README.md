@@ -157,7 +157,7 @@ Advanced techniques and feature engineering can further improve performance.
 
 ## 👤 Author
 
-**Vanshuu**
+**Vanshuu SÖHAL**
 [GitHub](https://github.com/sumitkumar1233edeedad)
 
 ---
