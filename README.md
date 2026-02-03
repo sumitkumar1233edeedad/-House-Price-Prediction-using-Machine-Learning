@@ -133,6 +133,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 ## 🌐 Streamlit App Features
 
 * User-friendly interface
+* Normal working processes showing. 
 * Input fields for house features
 * Real-time prediction output
 
